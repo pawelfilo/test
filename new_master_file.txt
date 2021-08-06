@@ -3,3 +3,6 @@ This file was created in master branch
 This is line changed in remote repository
 
 Changed local
+
+Changed remotely
+
